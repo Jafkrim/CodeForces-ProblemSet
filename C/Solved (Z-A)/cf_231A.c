@@ -38,7 +38,7 @@ int main() {
         }
     }
 
-    printf("%d", total_problem);
+    printf("%d\n", total_problem);
 
     return 0;
 }
