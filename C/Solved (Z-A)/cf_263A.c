@@ -1,7 +1,7 @@
 /*
     int matrix[5][5]
 
-    24 (0) and 1(1). Put (1) on the middle {matrix[3][3]}-
+    24 (0) and 1(1). Put (1) on the middle {matrix[3][3]}
 */
 
 #include <stdio.h>
