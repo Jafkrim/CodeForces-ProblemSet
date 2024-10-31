@@ -32,6 +32,7 @@ void check_near(long long num) {
     if ((num / 10) == 0) {
         if (((num % 10) == 4) || ((num % 10) == 7)) {
             check++;
+            
             return;
         } else {
             return;
