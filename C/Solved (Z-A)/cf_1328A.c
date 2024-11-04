@@ -8,7 +8,6 @@
 */
 
 #include <stdio.h>
-#include <string.h>
 
 // https://github.com/Jafkrim
 int main() {
