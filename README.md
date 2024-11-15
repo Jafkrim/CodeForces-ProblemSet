@@ -1,6 +1,6 @@
 # CodeForces-ProblemSet
 optional.
 
-SEKARANG AUTHOR NGUTANG (Lagi) 35 SOAL (mff, banyak tuags + begadang mulu)
+SEKARANG AUTHOR NGUTANG (Lagi) 40 SOAL (mff, banyak tuags + begadang mulu)
 
-DAY 019 KITA CICIL LAGIII (lieeed)
+DAY 020 KITA CICIL LAGIII (lieeed)
